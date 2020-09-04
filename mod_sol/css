@@ -8,14 +8,17 @@ margin-left:10px;
 
 .left{
 background-color: yellow;
+width: 33.33%;
 }
 
 .main{
 background-color: orange;
+width: 33.33%;
 }
 
 .right{
 background-color: red;
+width: 33.33%;
 }
 
 @media (max-width: 767px){
