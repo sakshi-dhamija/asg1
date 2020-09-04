@@ -8,16 +8,19 @@ margin-left:10px;
 
 .left{
 background-color: yellow;
+float:left;
 width: 33.33%;
 }
 
 .main{
 background-color: orange;
+float:left;
 width: 33.33%;
 }
 
 .right{
 background-color: red;
+float:left;
 width: 33.33%;
 }
 
