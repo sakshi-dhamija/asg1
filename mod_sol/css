@@ -4,6 +4,7 @@ font-size: 10vw;
 *{
 box-sizing: border-box;
 margin-left:10px;
+display: none;
 }
 
 .left{
